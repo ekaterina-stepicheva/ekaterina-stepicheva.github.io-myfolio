@@ -8,6 +8,7 @@
 	}
 	.row-banner {
 		padding-top: 5%;
+		height: 800px;
 	}
 	.icon {
 		margin-top: 70px;
@@ -37,6 +38,7 @@
 	}
 	.row-banner {
 		padding-top: 5%;
+		height: 700px;
 	}
 	.icon {
 		margin-top: 70px;
@@ -88,6 +90,7 @@
 	}	
 	.row-banner {
 		padding-top: 5%;
+		height: 600px;
 	}
 	h3 {
 		font-size: 20px;
@@ -96,6 +99,7 @@
 		font-size: 50px;
 	}
 	h2 {
+		margin-top: -70px;
 		font-size: 36px;
 	}
 	.icon {
@@ -212,6 +216,7 @@
 	}
 	.row-banner {
 		padding-top: 5%;
+		height: 500px;
 	}
 	.icon {
 		padding-top: 25px;
@@ -227,6 +232,7 @@
 		letter-spacing: 8px;
 	}
 	h2 {
+		margin-top: -80px;
 		font-size: 30px;
 	}
 	.row-banner > p {
@@ -342,6 +348,7 @@
 	}
 	.row-banner {
 		padding-top: 5%;
+		height: 400px;
 	}
 	h3 {
 		font-size: 16px;
@@ -351,6 +358,7 @@
 		letter-spacing: 8px;
 	}
 	h2 {
+		margin-top: -80px;
 		font-size: 24px;
 	}
 	.row-banner > p {
