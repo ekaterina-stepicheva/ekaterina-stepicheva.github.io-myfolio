@@ -2,22 +2,19 @@
 -----------------------------------*/
 
 			/*1200px*/
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
 	.logo,
 	.services {
 		padding-left: 8%;
 	}
 	.row-banner {
-		margin-top: -750px;
+		height: 680px;
 	}
-	.about-me {
-		margin-top: 230px;
+	.icon {
+		margin-top: 70px;
 	}
-	.banner-bg {
-		top: 0;
-	}
-	.header-about > h2 {
-		margin-top: 300px;
+	.button-span {
+		margin-top: -15px;
 	}
 	.info-title {
 		font-size: 20px;
@@ -28,7 +25,7 @@
 		line-height: 20px;
 		width: 90%;
 	}
-}
+} 
 
 			/*1024px*/
 @media screen and (min-width: 1024px) and (max-width: 1199px) {
@@ -37,14 +34,16 @@
 		padding-left: 5%;
 	}
 	.row-banner {
-		display: block;
-		margin: auto;
-		margin-top: -650px;
+		height: 650px;
 	}
-	.banner-bg {
-		top: 0;
+	.icon {
+		margin-top: 70px;
+	}
+	.button-span {
+		margin-top: -35px;
 	}
 	h3 {
+		padding-top: 150px;
 		font-size: 24px;
 	}
 	h1 {
@@ -53,12 +52,6 @@
 	.row-banner > p {
 		font-size: 14px;
 		text-align: center;
-	}
-	.about-me {
-		margin-top: 250px;
-	}
-	.header-about > h2 {
-		margin-top: -150px;
 	}
 	.column {
 		width: 49%;
@@ -89,29 +82,25 @@
 		padding-left: 10%;
 	}	
 	.row-banner {
-		display: block;
-		margin: auto;
-		margin-top: -550px;
-	}
-	.banner-bg {
-		top: 0;
+		height: 500px;
 	}
 	h3 {
+		padding-top: 80px;
 		font-size: 20px;
 	}
 	h1 {
 		font-size: 50px;
 	}
+	.icon {
+		margin-top: 50px;
+	}
+	.button-span {
+		margin-top: -45px;
+	}
 	.row-banner > p {
 		font-size: 14px;
 		text-align: center;
 		margin-left: -30px;
-	}
-	.about-me {
-		margin-top: 250px;
-	}
-	.header-about {
-		margin-top: -150px;
 	}
 	.column {
 		display: inline-flex;
@@ -214,15 +203,16 @@
 		display: none;
 	}
 	.row-banner {
-		width: 100%;
-		display: block;
-		margin: auto;
-		margin-top: -400px;
+		height: 350px;
 	}
-	.banner-bg {
-		top: 0;
+	.icon {
+		padding-top: 25px;
+	}
+	.button-span {
+		margin-top: -55px;
 	}
 	h3 {
+		padding-top: 70px;
 		font-size: 16px;
 	}
 	h1 {
@@ -235,12 +225,6 @@
 	}
 	.icon {
 		margin-top: 10px;
-	}
-	.know-more {
-		margin-top: 10px;
-	}
-	.about-me {
-		margin-top: 100px;
 	}
 	.column {
 		margin-top: 10px;
@@ -347,15 +331,10 @@
 		display: none;
 	}
 	.row-banner {
-		width: 100%;
-		display: block;
-		margin: auto;
-		margin-top: -400px;
-	}
-	.banner-bg {
-		top: 0;
+		height: 280px;
 	}
 	h3 {
+		padding-top: 50px;
 		font-size: 16px;
 	}
 	h1 {
@@ -367,13 +346,10 @@
 		text-align: center;
 	}
 	.icon {
-		margin-top: 10px;
+		margin-top: 25px;
 	}
-	.know-more {
-		margin-top: 10px;
-	}
-	.about-me {
-		margin-top: 100px;
+	.button-span {
+		margin-top: -70px;
 	}
 	.column {
 		margin-top: 10px;
