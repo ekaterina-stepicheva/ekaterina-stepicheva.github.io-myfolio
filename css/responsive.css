@@ -5,13 +5,19 @@
 @media screen and (min-width: 1200px) {
 	.logo,
 	.services {
-		padding-left: 5%;
+		padding-left: 8%;
 	}
-	.banner-image {
-		top: -30px;
+	.row-banner {
+		margin-top: -750px;
+	}
+	.about-me {
+		margin-top: 230px;
+	}
+	.banner-bg {
+		top: 0;
 	}
 	.header-about > h2 {
-		margin-top: -110px;
+		margin-top: 300px;
 	}
 	.info-title {
 		font-size: 20px;
@@ -30,8 +36,26 @@
 	.services {
 		padding-left: 5%;
 	}
-	.banner-image {
-		top: -50px;
+	.row-banner {
+		display: block;
+		margin: auto;
+		margin-top: -650px;
+	}
+	.banner-bg {
+		top: 0;
+	}
+	h3 {
+		font-size: 24px;
+	}
+	h1 {
+		font-size: 62px;
+	}
+	.row-banner > p {
+		font-size: 14px;
+		text-align: center;
+	}
+	.about-me {
+		margin-top: 250px;
 	}
 	.header-about > h2 {
 		margin-top: -150px;
@@ -41,15 +65,6 @@
 	}
 	.portfolio-details-link {
 		width: 50%;
-	}
-	.banner-image {
-		background: url('images/banner-bg.jpg') 100% 100% no-repeat;
-		background-position: center;
-		background-size: 100% 90%;
-		position: relative;
-		z-index: 50;
-		width: 100%;
-		top: -5px;
 	}
 }
 
@@ -73,14 +88,27 @@
 	.logo {
 		padding-left: 10%;
 	}	
-	.banner-image {
-		background: url('images/banner-bg.jpg') 100% 100% no-repeat;
-		background-position: center;
-		background-size: 100% 80%;
-		position: relative;
-		z-index: 50;
-		width: 100%;
-		top: -5px;
+	.row-banner {
+		display: block;
+		margin: auto;
+		margin-top: -550px;
+	}
+	.banner-bg {
+		top: 0;
+	}
+	h3 {
+		font-size: 20px;
+	}
+	h1 {
+		font-size: 50px;
+	}
+	.row-banner > p {
+		font-size: 14px;
+		text-align: center;
+		margin-left: -30px;
+	}
+	.about-me {
+		margin-top: 250px;
 	}
 	.header-about {
 		margin-top: -150px;
@@ -182,35 +210,37 @@
 	.burger-menu-list:hover {
 		color: #fff;
 	}
-	.banner-image {
-		background: url('images/banner-bg.jpg') 100% 100% no-repeat;
-		background-position: center;
-		background-size: 100% 50%;
-		position: relative;
-		z-index: 50;
-		width: 100%;
-		top: -110px;
-	}
 	.service-image {
 		display: none;
 	}
+	.row-banner {
+		width: 100%;
+		display: block;
+		margin: auto;
+		margin-top: -400px;
+	}
+	.banner-bg {
+		top: 0;
+	}
 	h3 {
-		padding-top: 200px;
-		font-size: 20px;
-	}
-	h1 {
-		font-size: 44px;
-		letter-spacing: 16px;
-	}
-	.row-banner > p {
 		font-size: 16px;
 	}
-	.know-more,
+	h1 {
+		font-size: 34px;
+		letter-spacing: 8px;
+	}
+	.row-banner > p {
+		font-size: 10px;
+		text-align: center;
+	}
 	.icon {
-		top: -35px;
+		margin-top: 10px;
+	}
+	.know-more {
+		margin-top: 10px;
 	}
 	.about-me {
-		margin-top: -450px;
+		margin-top: 100px;
 	}
 	.column {
 		margin-top: 10px;
@@ -313,35 +343,37 @@
 	.burger-menu-list:hover {
 		color: #fff;
 	}
-	.banner-image {
-		background: url('images/banner-bg.jpg') 100% 100% no-repeat;
-		background-position: center;
-		background-size: 100% 50%;
-		position: relative;
-		z-index: 50;
-		width: 100%;
-		top: -110px;
-	}
 	.service-image {
 		display: none;
 	}
+	.row-banner {
+		width: 100%;
+		display: block;
+		margin: auto;
+		margin-top: -400px;
+	}
+	.banner-bg {
+		top: 0;
+	}
 	h3 {
-		padding-top: 200px;
-		font-size: 20px;
-	}
-	h1 {
-		font-size: 44px;
-		letter-spacing: 16px;
-	}
-	.row-banner > p {
 		font-size: 16px;
 	}
-	.know-more,
+	h1 {
+		font-size: 34px;
+		letter-spacing: 8px;
+	}
+	.row-banner > p {
+		font-size: 10px;
+		text-align: center;
+	}
 	.icon {
-		top: -35px;
+		margin-top: 10px;
+	}
+	.know-more {
+		margin-top: 10px;
 	}
 	.about-me {
-		margin-top: -450px;
+		margin-top: 100px;
 	}
 	.column {
 		margin-top: 10px;

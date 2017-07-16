@@ -119,11 +119,11 @@ ul .nav-list-item a:hover span:last-child:after {
 	margin-bottom: -50px;
 }
 .banner-image {
-	background: url('banner-bg.jpg') 100% 100% no-repeat;
+	background-image: url('bannerbg.jpg') 100% 100% no-repeat;
 	background-position: center;
-	background-size: 100% 140%;
+	background-size: 100% 100%;
 	position: relative;
-	z-index: 50;
+	z-index: 500000;
 	width: 100%;
 	top: 70px;
 }
