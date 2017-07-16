@@ -3,12 +3,12 @@
 
 			/*1200px*/
 @media screen and (max-width: 1200px) {
-	.logo,
-	.services {
-		padding-left: 8%;
+	.logo {
+		padding-left: 5%;
 	}
 	.row-banner {
 		height: 680px;
+		padding-top: 12%;
 	}
 	.icon {
 		margin-top: 70px;
@@ -25,16 +25,20 @@
 		line-height: 20px;
 		width: 90%;
 	}
+	.row-services {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
 } 
 
 			/*1024px*/
 @media screen and (min-width: 1024px) and (max-width: 1199px) {
-	.logo,
-	.services {
+	.logo {
 		padding-left: 5%;
 	}
 	.row-banner {
 		height: 650px;
+		padding-top: 10%;
 	}
 	.icon {
 		margin-top: 70px;
@@ -43,7 +47,6 @@
 		margin-top: -35px;
 	}
 	h3 {
-		padding-top: 150px;
 		font-size: 24px;
 	}
 	h1 {
@@ -58,6 +61,10 @@
 	}
 	.portfolio-details-link {
 		width: 50%;
+	}
+	.row-services {
+		padding-left: 5%;
+		padding-right: 5%;
 	}
 }
 
@@ -83,9 +90,9 @@
 	}	
 	.row-banner {
 		height: 500px;
+		padding-top: 8%;
 	}
 	h3 {
-		padding-top: 80px;
 		font-size: 20px;
 	}
 	h1 {
@@ -114,6 +121,8 @@
 	}
 	.row-services {
 		width: 100%;
+		padding-left: 0;
+		padding-right: 0;
 	}
 	.row-services-col {
 		width: 45%;
@@ -204,6 +213,7 @@
 	}
 	.row-banner {
 		height: 350px;
+		padding-top: 8%;
 	}
 	.icon {
 		padding-top: 25px;
@@ -212,7 +222,6 @@
 		margin-top: -55px;
 	}
 	h3 {
-		padding-top: 70px;
 		font-size: 16px;
 	}
 	h1 {
@@ -238,7 +247,8 @@
 	}
 	.row-services {
 		width: 100%;
-		height: 100%;
+		padding-left: 0;
+		padding-right: 0;
 	}
 	.row-services-col {
 		width: 45%;
@@ -332,9 +342,9 @@
 	}
 	.row-banner {
 		height: 280px;
+		padding-top: 7%;
 	}
 	h3 {
-		padding-top: 50px;
 		font-size: 16px;
 	}
 	h1 {
@@ -363,7 +373,8 @@
 	}
 	.row-services {
 		width: 100%;
-		height: 100%;
+		padding-left: 0;
+		padding-right: 0;
 	}
 	.row-services-col {
 		width: 45%;

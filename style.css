@@ -131,9 +131,9 @@ ul .nav-list-item a:hover span:last-child:after {
 }
 .row-banner {
 	height: 900px;
+	padding-top: 20%;
 }
 h3 {
-	padding-top: 210px;
 	font-size: 30px;
 	color: #fff;
 	text-align: center;
