@@ -7,7 +7,6 @@
 		padding-left: 5%;
 	}
 	.row-banner {
-		height: 700px;
 		padding-top: 5%;
 	}
 	.icon {
@@ -37,8 +36,7 @@
 		padding-left: 5%;
 	}
 	.row-banner {
-		height: 650px;
-		padding-top: 10%;
+		padding-top: 5%;
 	}
 	.icon {
 		margin-top: 70px;
@@ -89,7 +87,6 @@
 		padding-left: 10%;
 	}	
 	.row-banner {
-		
 		padding-top: 5%;
 	}
 	h3 {
@@ -97,6 +94,9 @@
 	}
 	h1 {
 		font-size: 50px;
+	}
+	h2 {
+		font-size: 36px;
 	}
 	.icon {
 		margin-top: 50px;
@@ -139,7 +139,7 @@
 		text-transform: uppercase;
 		text-align: center;
 		font-weight: 800;
-		font-size: 46px;
+		font-size: 36px;
 		color: #02918c;
 	}
 	.row-services-description > p {
@@ -211,8 +211,7 @@
 		display: none;
 	}
 	.row-banner {
-		height: 450px;
-		padding-top: 10%;
+		padding-top: 5%;
 	}
 	.icon {
 		padding-top: 25px;
@@ -226,6 +225,9 @@
 	h1 {
 		font-size: 34px;
 		letter-spacing: 8px;
+	}
+	h2 {
+		font-size: 30px;
 	}
 	.row-banner > p {
 		font-size: 10px;
@@ -264,7 +266,7 @@
 		text-transform: uppercase;
 		text-align: center;
 		font-weight: 800;
-		font-size: 46px;
+		font-size: 30px;
 		color: #02918c;
 	}
 	.row-services-description > p {
@@ -339,8 +341,7 @@
 		display: none;
 	}
 	.row-banner {
-		height: 350px;
-		padding-top: 10%;
+		padding-top: 5%;
 	}
 	h3 {
 		font-size: 16px;
@@ -348,6 +349,9 @@
 	h1 {
 		font-size: 34px;
 		letter-spacing: 8px;
+	}
+	h2 {
+		font-size: 24px;
 	}
 	.row-banner > p {
 		font-size: 10px;
@@ -389,7 +393,7 @@
 		text-transform: uppercase;
 		text-align: center;
 		font-weight: 800;
-		font-size: 46px;
+		font-size: 24px;
 		color: #02918c;
 	}
 	.row-services-description > p {
