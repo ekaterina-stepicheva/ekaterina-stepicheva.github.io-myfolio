@@ -173,6 +173,13 @@
 	.header-portfolio > p {
 		width: 60%;
 	}
+	.header-contact {
+		width: 80%;
+		padding-bottom: 30px;
+	}
+	.portfolio-block {
+		margin-top: 30px;
+	}
 	.portfolio-details-link {
 		width: 50%;
 	}
@@ -307,6 +314,10 @@
 	}
 	.header-contact {
 		width: 80%;
+		padding-bottom: 20px;
+	}
+	.portfolio-block {
+		margin-top: 20px;
 	}
 	.portfolio-details-link:hover .info {
 		opacity: 0;
@@ -436,6 +447,10 @@
 	}
 	.header-contact {
 		width: 80%;
+		padding-bottom: 20px;
+	}
+	.portfolio-block {
+		margin-top: 20px;
 	}
 	.portfolio-details-link:hover .info {
 		opacity: 0;
