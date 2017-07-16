@@ -7,7 +7,7 @@
 		padding-left: 5%;
 	}
 	.row-banner {
-		height: 680px;
+		height: 700px;
 		padding-top: 12%;
 	}
 	.icon {
@@ -83,13 +83,13 @@
 		display: block;
 	}
 	.burger-menu {
-		width: 25%;
+		width: 40%;
 	}
 	.logo {
 		padding-left: 10%;
 	}	
 	.row-banner {
-		height: 500px;
+		height: 550px;
 		padding-top: 8%;
 	}
 	h3 {
@@ -202,8 +202,7 @@
 		display: block;
 	}
 	.burger-menu {
-	 	width: 40%;
-	 	opacity: .9;
+	 	width: 50%;
 	}
 	.burger-menu-list:hover {
 		color: #fff;
@@ -212,8 +211,8 @@
 		display: none;
 	}
 	.row-banner {
-		height: 350px;
-		padding-top: 8%;
+		height: 450px;
+		padding-top: 10%;
 	}
 	.icon {
 		padding-top: 25px;
@@ -331,8 +330,7 @@
 		display: block;
 	}
 	.burger-menu {
-	 	width: 40%;
-	 	opacity: .9;
+	 	width: 50%;
 	}
 	.burger-menu-list:hover {
 		color: #fff;
@@ -341,8 +339,8 @@
 		display: none;
 	}
 	.row-banner {
-		height: 280px;
-		padding-top: 7%;
+		height: 350px;
+		padding-top: 10%;
 	}
 	h3 {
 		font-size: 16px;
